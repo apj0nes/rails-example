@@ -1,4 +1,4 @@
-# Rail Example
+# Rails Example
 
 Example application using the public-lambda-api and aurora-serverless modules to provision Rails API hosted in Lambda with a MySQL Aurora Serverless data store.
 
